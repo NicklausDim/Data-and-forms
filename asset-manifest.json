@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "//nicklausdim.github.io/Data-and-forms/static/css/main.638021c1.chunk.css",
-    "main.js": "//nicklausdim.github.io/Data-and-forms/static/js/main.7fdce7a8.chunk.js",
-    "main.js.map": "//nicklausdim.github.io/Data-and-forms/static/js/main.7fdce7a8.chunk.js.map",
-    "runtime-main.js": "//nicklausdim.github.io/Data-and-forms/static/js/runtime-main.37b2abe3.js",
-    "runtime-main.js.map": "//nicklausdim.github.io/Data-and-forms/static/js/runtime-main.37b2abe3.js.map",
-    "static/js/2.782e88bc.chunk.js": "//nicklausdim.github.io/Data-and-forms/static/js/2.782e88bc.chunk.js",
-    "static/js/2.782e88bc.chunk.js.map": "//nicklausdim.github.io/Data-and-forms/static/js/2.782e88bc.chunk.js.map",
-    "static/js/3.867671f2.chunk.js": "//nicklausdim.github.io/Data-and-forms/static/js/3.867671f2.chunk.js",
-    "static/js/3.867671f2.chunk.js.map": "//nicklausdim.github.io/Data-and-forms/static/js/3.867671f2.chunk.js.map",
-    "index.html": "//nicklausdim.github.io/Data-and-forms/index.html",
-    "static/css/main.638021c1.chunk.css.map": "//nicklausdim.github.io/Data-and-forms/static/css/main.638021c1.chunk.css.map",
-    "static/js/2.782e88bc.chunk.js.LICENSE.txt": "//nicklausdim.github.io/Data-and-forms/static/js/2.782e88bc.chunk.js.LICENSE.txt"
+    "main.css": "/Data-and-forms/static/css/main.638021c1.chunk.css",
+    "main.js": "/Data-and-forms/static/js/main.391db6c5.chunk.js",
+    "main.js.map": "/Data-and-forms/static/js/main.391db6c5.chunk.js.map",
+    "runtime-main.js": "/Data-and-forms/static/js/runtime-main.27e69945.js",
+    "runtime-main.js.map": "/Data-and-forms/static/js/runtime-main.27e69945.js.map",
+    "static/js/2.782e88bc.chunk.js": "/Data-and-forms/static/js/2.782e88bc.chunk.js",
+    "static/js/2.782e88bc.chunk.js.map": "/Data-and-forms/static/js/2.782e88bc.chunk.js.map",
+    "static/js/3.867671f2.chunk.js": "/Data-and-forms/static/js/3.867671f2.chunk.js",
+    "static/js/3.867671f2.chunk.js.map": "/Data-and-forms/static/js/3.867671f2.chunk.js.map",
+    "index.html": "/Data-and-forms/index.html",
+    "static/css/main.638021c1.chunk.css.map": "/Data-and-forms/static/css/main.638021c1.chunk.css.map",
+    "static/js/2.782e88bc.chunk.js.LICENSE.txt": "/Data-and-forms/static/js/2.782e88bc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.37b2abe3.js",
+    "static/js/runtime-main.27e69945.js",
     "static/js/2.782e88bc.chunk.js",
     "static/css/main.638021c1.chunk.css",
-    "static/js/main.7fdce7a8.chunk.js"
+    "static/js/main.391db6c5.chunk.js"
   ]
 }
